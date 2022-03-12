@@ -7,3 +7,7 @@ print(text1)
 print(text2)
 print(text3)
 print(text4)
+
+name = input("What is your name: ")
+print("Great to meet you",name)
+print("Let's be friends!")
